@@ -1,8 +1,10 @@
 img {
 
-    font-size: clamp(2em, 14vw, 10em);
+    width: 50%;
+    height: 50%;
    
-   width: 50%;
+   
+   
 
 }
 
